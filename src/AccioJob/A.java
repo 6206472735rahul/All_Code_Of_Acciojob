@@ -1,5 +1,5 @@
 package AccioJob;
-
+// package is important line for check github
 public class A {
     public A(){
         System.out.println("A");
